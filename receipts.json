@@ -23,7 +23,7 @@
         "measureUnit": "столовые ложки"
       }
     ],
-    "cooking time": {
+    "cookingTime": {
       "time": "30 минут"
     },
     "steps": {
@@ -72,7 +72,7 @@
         "measureUnit": "г"
       }
     ],
-    "cooking time": {
+    "cookingTime": {
       "time": "7 минут"
     },
     "steps": {
@@ -131,7 +131,7 @@
         "name": "мята по вкусу"
       }
     ],
-    "cooking time": {
+    "cookingTime": {
       "time": "30 min"
     },
     "steps": {
@@ -173,7 +173,7 @@
         "measureUnit": "столовых ложки"
       }
     ],
-    "cooking time": {
+    "cookingTime": {
       "time": "20min"
     },
     "steps": {
@@ -217,9 +217,9 @@
         "name": "Соль и сахар по вкусу"
       }
     ],
-    "cooking time": {
-      "time": "40 min"
-    },
+  "cookingTime": {
+    "time":  "40min"
+  },
     "steps": {
       "1": "В миске смешать творог, яйца, муку, сахар, соду и соль до однородной консистенции.",
       "2": "В небольшом сотейнике оливковое масло хорошо разогреть.",
